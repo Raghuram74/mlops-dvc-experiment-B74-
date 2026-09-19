@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Data and models (managed by DVC)
+models/
+dvc_storage/
+
+# VS Code
+.vscode/
+
+# Ignore secrets
+.env
